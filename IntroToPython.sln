@@ -9,6 +9,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IntroToPython - Module 2", 
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IntroToPython - Module 3", "IntroToPython - Module 3\IntroToPython - Module 3.pyproj", "{AED45E80-12FC-4533-9296-E86769DB21E7}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IntroToPython - Module 4", "IntroToPython - Module 4\IntroToPython - Module 4.pyproj", "{67FA0525-7EE8-48D8-B41C-1C4B2906B434}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{8E9AB42E-6C10-4EBD-B6E8-99B82CF98020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED45E80-12FC-4533-9296-E86769DB21E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AED45E80-12FC-4533-9296-E86769DB21E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FA0525-7EE8-48D8-B41C-1C4B2906B434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FA0525-7EE8-48D8-B41C-1C4B2906B434}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
